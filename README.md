@@ -1,7 +1,7 @@
 # Prediction-of-Diabetes
 
 
-This repository contains a Jupyter notebook (`eda-preprocessing-model-training.ipynb`) that implements exploratory data analysis (EDA), preprocessing/feature engineering, and model training utilities for a classification/regression task (example: diabetes prediction). The notebook is structured as reusable Python classes so you can run the whole pipeline interactively or import the components into other scripts.
+This repository contains a Jupyter notebook (`eda-preprocessing-model-training.ipynb`) that implements exploratory data analysis (EDA), preprocessing/feature engineering, and model training utilities for a classification/regression task (example: diabetes prediction). The notebook is structured as reusable Python classes so you can run the whole pipeline interactively or import the components into other scripts. This notebook ranks 18/4206 in the competition.
 
 **Key Components**
 
@@ -95,12 +95,3 @@ preds = trainer.run()
 
 - Author: notebook owner
 - License: not specified (add your license file if needed)
-
-If you want, I can:
-- Generate a `requirements.txt` from the notebook imports.
-- Update the notebook to use relative/local data paths and environment variables.
-- Add a short example script to run preprocessing + training from CLI.
-
----
-
-Created from `eda-preprocessing-model-training.ipynb` (Desktop).
