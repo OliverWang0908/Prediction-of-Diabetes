@@ -2,6 +2,7 @@
 
 
 This repository contains a Jupyter notebook (`eda-preprocessing-model-training.ipynb`) that implements exploratory data analysis (EDA), preprocessing/feature engineering, and model training utilities for a classification/regression task (example: diabetes prediction). The notebook is structured as reusable Python classes so you can run the whole pipeline interactively or import the components into other scripts. This notebook ranks 18/4206 in the competition.
+https://www.kaggle.com/competitions/playground-series-s5e12/leaderboard
 
 **Key Components**
 
